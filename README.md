@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/if-i-die-young/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for If I Die Young](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/if-i-die-young/) |
+| **Get License** | [Get License For If I Die Young](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/if-i-die-young/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `ed77c5ca690638d558d70f261b88cf3ec5aad7f58a86849311f3b7e213879b03` |
 | **Timestamp** | May 22, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
