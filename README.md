@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Got the windows down, but it's you I'm breathing in
+> Looking at your lips, I'm ready to begin
+> Every mile we drive just makes me want you more
+> You're the only destination that I'm aiming for
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
